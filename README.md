@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact is that I can't decide which language suits me best
 
-- :muscle::video_game::beers: Apart from coding I like gym, video games and hanging out with friends
+- :muscle::video_game::beers: Apart from coding I like gym, hanging out with friends and video games (https://steamcommunity.com/id/pawerq/)
 
 
 <h3 align="left">Languages and Tools:</h3>
