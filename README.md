@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact **I can't decide which language suits me best**
 
+- :technologist: When it comes to experience, I haven't got any yet, maybe you will be first to give me a chance? :handshake: :muscle:
 
 
 <h3 align="left">Languages and Tools:</h3>
