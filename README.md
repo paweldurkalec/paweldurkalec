@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paweł</h1>
+<h1 align="center">Hi 👋, I'm Paweł :cowboy_hat_face:</h1>
 <h3 align="center">An aspiring developer from Poland</h3>
 
 - 🌱 I’m currently learning **.NET** and all sorts of things for my studies
