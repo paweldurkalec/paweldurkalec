@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paweł :cowboy_hat_face:</h1>
 <h3 align="center">An aspiring developer from Poland</h3>
 
-- 🌱 I’m currently learning **.NET** and all sorts of things for my studies
-
 - :student: 3rd year of computer science on Gdańsk University of Technology
 
-- ⚡ Fun fact **I can't decide which language suits me best**
+- 🌱 I’m currently learning **.NET** and all sorts of things for my studies
 
-- :technologist: When it comes to experience, I haven't got any yet, maybe you will be first to give me a chance? :handshake: :muscle:
+- :technologist: When it comes to experience, I haven't got any yet, maybe you will be first to give me a chance? :handshake: 
+
+- ⚡ Fun fact is that I can't decide which language suits me best
+
+- :muscle::video_game::beers: Apart from coding I like gym, video games and hanging out with friends
 
 
 <h3 align="left">Languages and Tools:</h3>
