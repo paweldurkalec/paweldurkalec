@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł :cowboy_hat_face:</h1>
 <h3 align="center">An aspiring developer from Poland</h3>
 
-- :student: 3rd year of computer science on Gdańsk University of Technology
+- :student: 3rd year of computer science at Gdańsk University of Technology
 
 - 🌱 I’m currently learning **.NET** and all sorts of things for my studies
 
@@ -17,5 +17,5 @@
 
 Contact:
 
-- email: pdurkalec1006@gmail.com
+- mail: pdurkalec1006@gmail.com
 - messenger: https://www.m.me/100007170453977
