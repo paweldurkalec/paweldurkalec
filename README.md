@@ -18,4 +18,5 @@
 Contact:
 
 - mail: pdurkalec1006@gmail.com
+- discord: https://discordapp.com/users/543150306444443655
 - messenger: https://www.m.me/100007170453977
