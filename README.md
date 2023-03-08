@@ -3,8 +3,6 @@
 
 - :student: 3rd year of computer science at Gdańsk University of Technology
 
-- 🌱 I’m currently learning **.NET** and all sorts of things for my studies
-
 - :technologist: When it comes to experience, I haven't got any yet, maybe you will be first to give me a chance? :handshake: 
 
 - ⚡ Fun fact is that I can't decide which language suits me best
