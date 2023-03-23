@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paweł :cowboy_hat_face:</h1>
-<h3 align="center">Wannabe developer from Poland</h3>
 
 - :student: 3rd year of computer science at Gdańsk University of Technology
 
