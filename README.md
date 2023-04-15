@@ -8,7 +8,6 @@
 
 - :muscle::video_game::beers: Apart from coding I like gym, hanging out with friends and video games (https://steamcommunity.com/id/pawerq/)
 
-I'm looking for part-time job or internship starting from now or full-time during summer. Feel free to text me.
 
 
 <h3 align="left">Languages and Tools:</h3>
